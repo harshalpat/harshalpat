@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with cloud computing.
 - 📫 How to reach me: iamharshalpatel@outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to code and play online games :)!
+- ⚡ Fun fact: I love to code and play online games :)
 -->
