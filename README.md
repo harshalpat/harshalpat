@@ -7,4 +7,3 @@
 - 📫 How to reach me: iamharshalpatel@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to code and play online games :)
--->
