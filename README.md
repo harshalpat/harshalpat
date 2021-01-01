@@ -1,6 +1,5 @@
 ### Hello there! Its nice to see you here. 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Full stack web development.
 - 🌱 I’m currently learning Spring framework.
