@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Full stack web development.
-- 🌱 I’m currently learning Spring framework.
+- 🌱 I’m currently learning JPA hybernate.
 - 🤔 I’m looking for help with cloud computing.
 - 📫 How to reach me: iamharshalpatel@outlook.com
 - 😄 Pronouns: He/Him
