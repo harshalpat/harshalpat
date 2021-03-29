@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on Full stack web development.
 - 🌱 I’m currently learning MERN.
-- 🤔 I’m looking for help with getting an interview.
 - 📫 How to reach me: iamharshalpatel@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to code and play online games :)
