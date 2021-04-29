@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Full stack web development.
-- 🌱 I’m currently learning MERN.
+- 🌱 I’m currently C++ and Erlang.
 - 📫 How to reach me: iamharshalpatel@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to code and play online games :)
